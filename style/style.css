@@ -1,0 +1,4 @@
+div.card-deck{
+    background-image: linear-gradient(to left top, rgba(13, 13, 14, 0.726), rgba(78, 78, 78, 0.575)), url("../img/fondo.jpg");
+    background-size: contain;
+}
